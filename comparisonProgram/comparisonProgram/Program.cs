@@ -19,7 +19,7 @@ namespace comparisonProgram
         // Creating set method
         public void setRate(decimal rate)
         {
-            hourlyRate = rate;
+            this.hourlyRate = rate;
         }
 
         // Creating get method
@@ -31,7 +31,7 @@ namespace comparisonProgram
         // Creating set method
         public void setWeekly(int hours)
         {
-            weeklyHours = hours;
+            this.weeklyHours = hours;
         }
 
         // Creating method to calculate salary if this Person works all 52 weeks out of the year.

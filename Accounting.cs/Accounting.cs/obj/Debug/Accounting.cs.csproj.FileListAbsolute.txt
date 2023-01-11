@@ -1,0 +1,6 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\bin\Debug\Accounting.cs.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\bin\Debug\Accounting.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\bin\Debug\Accounting.cs.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\obj\Debug\Accounting.cs.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\obj\Debug\Accounting.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting.cs\Accounting.cs\obj\Debug\Accounting.cs.pdb

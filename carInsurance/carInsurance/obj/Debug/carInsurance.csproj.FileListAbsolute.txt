@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\bin\Debug\carInsurance.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\bin\Debug\carInsurance.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\bin\Debug\carInsurance.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\obj\Debug\carInsurance.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\obj\Debug\carInsurance.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\obj\Debug\carInsurance.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\carInsurance\carInsurance\obj\Debug\carInsurance.pdb

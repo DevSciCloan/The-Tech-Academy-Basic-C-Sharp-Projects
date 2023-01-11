@@ -20,7 +20,7 @@ namespace carInsurance
             Console.WriteLine("How many speeding tickets do you have?");
             tickets = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Client is eligible: \n" + (oldEnough && hasDUI && tickets <= 3)); // Are all three conditions in parentheses met? If True print true else false
+            Console.WriteLine("Client is eligible: \n" + (oldEnough && !hasDUI && tickets <= 3)); // Are all three conditions in parentheses met? If True print true else false
 
             Console.Read(); // Waiting for user input before closing program
         }

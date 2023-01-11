@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\bin\Debug\comparisonProgram.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\bin\Debug\comparisonProgram.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\bin\Debug\comparisonProgram.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\obj\Debug\comparisonProgram.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\obj\Debug\comparisonProgram.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\obj\Debug\comparisonProgram.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\comparisonProgram\comparisonProgram\obj\Debug\comparisonProgram.pdb

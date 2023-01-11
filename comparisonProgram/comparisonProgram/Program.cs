@@ -13,7 +13,7 @@ namespace comparisonProgram
         // Creating get method
         public decimal getRate()
         {
-            return hourlyRate;
+            return this.hourlyRate;
         }
 
         // Creating set method
@@ -25,7 +25,7 @@ namespace comparisonProgram
         // Creating get method
         public int getWeekly()
         {
-            return weeklyHours;
+            return this.weeklyHours;
         }
 
         // Creating set method

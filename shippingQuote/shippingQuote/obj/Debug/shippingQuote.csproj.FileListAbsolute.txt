@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\bin\Debug\shippingQuote.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb

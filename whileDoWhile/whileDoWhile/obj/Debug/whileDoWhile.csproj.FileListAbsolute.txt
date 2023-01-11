@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.pdb

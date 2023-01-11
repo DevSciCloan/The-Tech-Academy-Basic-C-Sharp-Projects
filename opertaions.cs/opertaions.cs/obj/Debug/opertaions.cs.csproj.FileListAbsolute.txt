@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\bin\Debug\opertaions.cs.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\bin\Debug\opertaions.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\bin\Debug\opertaions.cs.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\obj\Debug\opertaions.cs.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\obj\Debug\opertaions.cs.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\obj\Debug\opertaions.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\opertaions.cs\opertaions.cs\obj\Debug\opertaions.cs.pdb

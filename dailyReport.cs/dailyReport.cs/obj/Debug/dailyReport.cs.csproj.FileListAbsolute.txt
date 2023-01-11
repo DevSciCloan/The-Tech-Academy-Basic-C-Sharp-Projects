@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\bin\Debug\dailyReport.cs.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\bin\Debug\dailyReport.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\bin\Debug\dailyReport.cs.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\obj\Debug\dailyReport.cs.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\obj\Debug\dailyReport.cs.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\obj\Debug\dailyReport.cs.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReport.cs\dailyReport.cs\obj\Debug\dailyReport.cs.pdb

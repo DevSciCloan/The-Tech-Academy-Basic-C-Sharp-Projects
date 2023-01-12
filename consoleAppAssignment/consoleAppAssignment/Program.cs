@@ -74,7 +74,7 @@ namespace consoleAppAssignment
                 {
                     Console.WriteLine("Found at index: " + i);
                     countExists++; // Incrementing countExists by 1
-                    continue; // If user input query is found in the list then exit the loop
+                    break; // If user input query is found in the list then exit the loop
                 }
             }
 

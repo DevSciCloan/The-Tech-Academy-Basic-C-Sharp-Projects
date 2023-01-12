@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\bin\Debug\stringsIntegers.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\bin\Debug\stringsIntegers.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\bin\Debug\stringsIntegers.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\obj\Debug\stringsIntegers.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\obj\Debug\stringsIntegers.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\obj\Debug\stringsIntegers.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\stringsIntegers\stringsIntegers\obj\Debug\stringsIntegers.pdb

@@ -42,9 +42,17 @@ namespace stringsIntegers
                     }
                     invalid = false; // Set invalid to false to break out of the do while
                 }
-                catch
+                catch (DivideByZeroException e)
                 {
-                    Console.WriteLine("Please type a non-zero integer...\n");
+                    Console.WriteLine(e.Message + " Please enter a non-zero integer...\n");
+                }
+                catch (FormatException e)
+                {
+                    Console.WriteLine(e.Message + " Please enter a number\n");
+                }
+                finally
+                {
+                    Console.WriteLine("Try again!\n");
                 }
             }
             while (invalid);

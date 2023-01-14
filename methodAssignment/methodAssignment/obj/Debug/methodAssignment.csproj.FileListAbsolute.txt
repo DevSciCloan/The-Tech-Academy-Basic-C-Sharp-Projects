@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\methodAssignment.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\methodAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\methodAssignment.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\methodAssignment.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\methodAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\methodAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\methodAssignment.pdb

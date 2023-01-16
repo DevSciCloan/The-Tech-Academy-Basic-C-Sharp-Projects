@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\bin\Debug\abstractClass.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\obj\Debug\abstractClass.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\obj\Debug\abstractClass.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\obj\Debug\abstractClass.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\abstractClass\abstractClass\obj\Debug\abstractClass.pdb

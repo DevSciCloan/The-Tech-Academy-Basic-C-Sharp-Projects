@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\bin\Debug\methodClass.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodClass\methodClass\obj\Debug\methodClass.pdb

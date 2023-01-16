@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\bin\Debug\methodsAndObjects.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAndObjects\methodsAndObjects\obj\Debug\methodsAndObjects.pdb

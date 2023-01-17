@@ -18,6 +18,17 @@ namespace abstractClass
             // Printing whether or not Employee is employed
             Console.WriteLine(someone.SayName() + " is employed: " + someone.employed);
 
+            // Instantiating two new Employee objects
+            Employee employee1 = new Employee("George", "Hendrix");
+            Employee employee2 = new Employee("Paul", "Green");
+
+            // Setting employee ids to 1 and 2
+            employee1.iD = 1;
+            employee2.iD = 2;
+
+            // Printing both employee names and whether or not employee1 == employee2 using overloaded operator == in class Employee
+            Console.WriteLine("Employee: " + employee1.SayName() + "\nEmployee: " + employee2.SayName() + "\nHave the same id number: " + (employee1 == employee2));
+
             Console.Read(); // Waits for user input before closing program
         }
     }
@@ -37,6 +48,7 @@ namespace abstractClass
     // Employee inherits Person
     class Employee : Person, IQuittable
     {
+        public int iD;
         public bool employed = true;
         // Constructor
         public Employee(string fname, string lname)
@@ -55,6 +67,20 @@ namespace abstractClass
         public void Quit(Employee employee)
         {
             employee.employed = false;
+        }
+
+        // Overloads == operator to determine if employee1.iD == employee2.iD and returns true or false
+        public static bool operator==(Employee employee1, Employee employee2)
+        {
+            bool equal = employee1.iD == employee2.iD;
+            return equal;
+        }
+
+        // Overloads != operator to determine if employee1.iD != employee2.iD and returns true or false
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            bool equal = employee1.iD != employee2.iD;
+            return equal;
         }
     }
 }

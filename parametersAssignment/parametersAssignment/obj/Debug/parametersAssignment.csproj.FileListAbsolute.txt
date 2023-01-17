@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\bin\Debug\parametersAssignment.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\bin\Debug\parametersAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\bin\Debug\parametersAssignment.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\obj\Debug\parametersAssignment.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\obj\Debug\parametersAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\obj\Debug\parametersAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\parametersAssignment\parametersAssignment\obj\Debug\parametersAssignment.pdb

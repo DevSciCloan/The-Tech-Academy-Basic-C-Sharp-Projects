@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parsingEnums", "parsingEnums\parsingEnums.csproj", "{4DC1DA7B-5967-4B1F-B8E1-DADA3E62924E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC1DA7B-5967-4B1F-B8E1-DADA3E62924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC1DA7B-5967-4B1F-B8E1-DADA3E62924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC1DA7B-5967-4B1F-B8E1-DADA3E62924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC1DA7B-5967-4B1F-B8E1-DADA3E62924E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7D33BF-B951-4CC2-894D-329C74867083}
+	EndGlobalSection
+EndGlobal

@@ -10,6 +10,14 @@ namespace abstractClass
 
             someone.callSayName(); // Calling superclass method SayName by within callSayName from the Employee class
 
+            // Printing whether or not Employee is employed
+            Console.WriteLine(someone.SayName() + " is employed: " + someone.employed);
+
+            someone.Quit(someone); // Employee quits
+
+            // Printing whether or not Employee is employed
+            Console.WriteLine(someone.SayName() + " is employed: " + someone.employed);
+
             Console.Read(); // Waits for user input before closing program
         }
     }
@@ -27,8 +35,9 @@ namespace abstractClass
     }
 
     // Employee inherits Person
-    class Employee : Person
+    class Employee : Person, IQuittable
     {
+        public bool employed = true;
         // Constructor
         public Employee(string fname, string lname)
         {
@@ -40,6 +49,12 @@ namespace abstractClass
         public void callSayName()
         {
             Console.WriteLine("Name: \n" + this.SayName());
+        }
+
+        // Employee can quit. Sets employed to false
+        public void Quit(Employee employee)
+        {
+            employee.employed = false;
         }
     }
 }

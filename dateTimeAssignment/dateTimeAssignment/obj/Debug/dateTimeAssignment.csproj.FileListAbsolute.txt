@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\bin\Debug\dateTimeAssignment.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\bin\Debug\dateTimeAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\bin\Debug\dateTimeAssignment.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\obj\Debug\dateTimeAssignment.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\obj\Debug\dateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\obj\Debug\dateTimeAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\dateTimeAssignment\dateTimeAssignment\obj\Debug\dateTimeAssignment.pdb

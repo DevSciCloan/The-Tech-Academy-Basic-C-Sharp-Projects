@@ -1,0 +1,7 @@
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\bin\Debug\constructorAssignment.exe.config
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\bin\Debug\constructorAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\bin\Debug\constructorAssignment.pdb
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\obj\Debug\constructorAssignment.csproj.AssemblyReference.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\obj\Debug\constructorAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\obj\Debug\constructorAssignment.exe
+C:\CSharpProjects\The-Tech-Academy-Basic-C-Sharp-Projects\constructorAssignment\constructorAssignment\obj\Debug\constructorAssignment.pdb

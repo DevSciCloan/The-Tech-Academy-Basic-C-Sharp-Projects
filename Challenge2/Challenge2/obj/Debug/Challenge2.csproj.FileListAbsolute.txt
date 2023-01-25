@@ -1,0 +1,13 @@
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\Challenge2.exe.config
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\Challenge2.exe
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\Challenge2.pdb
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\EntityFramework.dll
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\EntityFramework.SqlServer.dll
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\EntityFramework.xml
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\bin\Debug\EntityFramework.SqlServer.xml
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.AssemblyReference.cache
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.SuggestedBindingRedirects.cache
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.CopyComplete
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.exe
+C:\CSharpProjects\CSharpChallenges\Challenge2\Challenge2\obj\Debug\Challenge2.pdb
